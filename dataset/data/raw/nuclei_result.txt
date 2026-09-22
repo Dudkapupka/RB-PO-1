@@ -1,0 +1,19 @@
+
+                     __     _
+   ____  __  _______/ /__  (_)
+  / __ \/ / / / ___/ / _ \/ /
+ / / / / /_/ / /__/ /  __/ /
+/_/ /_/\__,_/\___/_/\___/_/   v3.11.1
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current nuclei version: v3.11.1 ([92mlatest[0m)
+[[34mINF[0m] Current nuclei-templates version: v10.4.9 ([92mlatest[0m)
+[[34mINF[0m] New templates added in latest release: 123
+[[34mINF[0m] Templates loaded for current scan: 10851
+[[34mINF[0m] Executing 10851 signed templates from projectdiscovery/nuclei-templates
+[[34mINF[0m] Targets loaded for current scan: 1
+[[34mINF[0m] Templates clustered: 2486 (Reduced 2352 Requests)
+[[34mINF[0m] Skipped 192.168.64.2:443 from target list as found unresponsive permanently: cause="port closed or filtered" address=192.168.64.2:443 chain="connection refused; got err while executing https://192.168.64.2/export/classroom-course-statistics?fileNames[]=../../../../../../../etc/passwd"
+[[34mINF[0m] Using Interactsh Server: oast.online
+[[34mINF[0m] Scan completed in 7.144660581s. No results found.
