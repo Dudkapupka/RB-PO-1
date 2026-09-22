@@ -1,0 +1,39 @@
+# Dataset
+gender_dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Training outputs
+runs/
+logs/
+checkpoints/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
