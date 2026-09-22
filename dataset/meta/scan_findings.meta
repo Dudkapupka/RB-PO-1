@@ -1,0 +1,9 @@
+dataset_name: security_scan_dataset
+version: 1.0
+date: 2026-09-22
+target_source: own Ubuntu VM in UTM
+target_ips: [192.168.64.2]
+tools_used: Nmap, Masscan, Nikto, Nuclei, Horusec
+scan_scope: only own resources
+result: no vulnerabilities detected
+expert: Дашин Руслан Андреевич

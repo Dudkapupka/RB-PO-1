@@ -37,3 +37,4 @@ credentials.json
 # IDE
 .vscode/
 .idea/
+.horusec/
